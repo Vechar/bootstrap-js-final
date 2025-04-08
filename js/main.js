@@ -1,4 +1,3 @@
-
 const drinks = {
     "Mocha": 5.99,
     "Espresso": 3.99,
